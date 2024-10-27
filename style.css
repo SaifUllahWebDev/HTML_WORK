@@ -1,0 +1,38 @@
+
+#head{
+    background-color: lightblue;
+    text-align: center;
+}
+hr{
+    height: 10px;
+    background-color: lightseagreen;
+}
+p{
+    background-color: lightblue;
+}
+a{
+    text-decoration: none;
+}
+table , th , tr, td{
+    width: 800px;
+    height: 50px;
+    border: 2px solid black
+}
+video{
+    height: 300px;
+    width: 500px;
+}
+fieldset{
+border: 4px solid black;
+}
+input , textarea{
+    border:2px solid lightblue;
+    border-radius: 10px;
+}
+audio{
+    border: 2px dotted black;
+    border-radius: 35%;
+}
+h1,h2{
+    text-align: center;
+}
